@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/archon-logo.png" alt="ARCHON Logo" width="280">
+  <img src="archon-logo.png" alt="ARCHON Logo" width="280">
 </p>
 
 <h1 align="center">ARCHON — Enterprise Infrastructure Solution Architect</h1>
